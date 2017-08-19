@@ -8,7 +8,7 @@ var config = {
           password: 'admin123'
         },
         pomDir: 'dist/pom',
-        url: 'http://localhost:8081/repository/npmLibraries',
+        url: 'http://localhost:8081/repository/maven-releases',
         quiet: false,
         insecure: true
       }

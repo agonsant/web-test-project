@@ -5,7 +5,7 @@
 
         gulp.task('deploy-nexus', function (cb) {    
             info = config.nexus;
-            info.version = '0.0.3';
+            info.version = '0.0.4';
             info.artifact = 'dist/example.zip';
     
             deployer.deploy(info, function (err) {

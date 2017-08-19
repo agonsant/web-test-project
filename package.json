@@ -4,7 +4,7 @@
   "author": "Alex González",
   "description": "web project to test web libraries",
   "scripts": {
-    "deploy-nexus" :  "gulp deploy-nexus" 
+    "deploy-nexus": "gulp deploy-nexus"
   },
   "devDependencies": {
     "gulp": "3.9.1",
